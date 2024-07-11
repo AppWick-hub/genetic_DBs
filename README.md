@@ -1,1 +1,1 @@
-In this repository, I will upload some relevant genetic databases that can be used in downstream variant prioritization.
+In this repository, I will upload some relevant genetic databases that can be used in downstream variant prioritization. The extracted gene lists from the AutDB database, contain varying confidence genes from disorders such as ASD, ADHD, SCZ, OCD, DD, etc. 
